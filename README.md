@@ -1,20 +1,18 @@
-We choose to work on TESLA Stock Data.
+## Project: Analysis of TESLA Stock Data
 
-Team members working on the project:
-1- Mohamed Elsheshtawy-----------Penn ID: 17363793
+### Team Members:
+1. **Mohamed Elsheshtawy**
+   - Penn ID: 17363793
+2. **Hesham Maher**
+   - Penn ID: 58309713
 
-2- Hesham Maher------------------Penn ID: 58309713
+### Research Questions:
+1. Identifying trends in TESLA stock data over the years.
+2. Determining the best times within a year to buy and sell.
+3. Calculating potential monetary gains across different time intervals when investing in TESLA.
 
-Questions we are attempting to answer:
+### Methodology:
+- Employing linear regression, or non-linear regression if necessary, along with statistical analysis.
 
-1- We will try to find a trends across the years.
-
-2- best time to buy in a year and best time to sell. 
-
-3- monetary gain across different time intervals if invested in TESLA.
-
-How will we achieve it?
-
-1- by using techniques of linear regression or non-linear if it needs and statistics.
-
-It is important because it will give us a glimpse on when to invest.
+### Importance:
+- This analysis will provide insights on optimal investment timings for TESLA stock.
